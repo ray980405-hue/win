@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="nI}zgLTX0`fw|~km^8-;" x="0" y="0"></block><block type="device_forever" id="Xa|(C$J*0y/nG4q$D(IX" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="szmt^X:yfP;DLI*+LBOa" x="34" y="69"><statement name="HANDLER"><block type="device_show_leds" id="~,4X@OOp(T$}Rf-kTq?n"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="music_playable_play" id="!$7k2p6ew9Ud2?{wI]^+"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="W6qd21q]6m=8ZFS~mXwb"><value name="melody"><shadow type="melody_editor" id="|l_7.d1#mDVt:hgc]3:4"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="kAV]g41_zW[B)NCoY4MD"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value></block></next></block></statement></block></xml>
